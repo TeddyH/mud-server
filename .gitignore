@@ -1,0 +1,19 @@
+# Ignore build directory
+/build/
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Maven or Gradle wrapper files
+.mvn/
+.gradle/
+target/
+out/
+
+# Logs
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
